@@ -1,0 +1,6 @@
+print(f"Addition: {number1} +{number2} = {addition_result}")
+print(f"Subtraction: {number1} - {number2} = {subtraction_result}")
+print(f"Multiplication: {number1} * {number2} = {multiplication_result}")
+print(f"Division: {number1} / {number2} = {division_result}")
+print(f"Floor Division: {number1} // {number2} = {floor_division_result}")
+print(f"Modulo: {number1} % {number2} = {modulo_result}")
